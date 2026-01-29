@@ -2,7 +2,7 @@
 <h3 align="center">Enthusiastic Python Developer</h3> -->
 
 # 💫 About Me:
-🔭 I’m currently Full-Stack Projects<br>👯 I’m looking to collaborate on any fun or challenging projects
+🔭 I’m currently working in Full-Stack Projects<br>👯 I’m looking to collaborate on any fun or challenging projects
 
 
 ## 🌐 Socials:
