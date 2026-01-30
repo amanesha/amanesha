@@ -31,3 +31,12 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![JasperReports](https://img.shields.io/badge/JasperReports-0A6AA1?style=for-the-badge&logo=java&logoColor=white)
 ![ODK Form](https://img.shields.io/badge/ODK-ED1C24?style=for-the-badge&logo=android&logoColor=white)
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=amanesha&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=amanesha&theme=github_dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amanesha&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
