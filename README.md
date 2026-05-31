@@ -1,7 +1,7 @@
 <!-- <h1 align="center">I'm Amanuel Eyasu</h1>
 <h3 align="center">Full-Stack Developer</h3> -->
 
-# 💫 About Me:
+# 👨‍💻 About Me:
 🔭 I’m currently working on Full-Stack Projects<br>
 👯 I’m looking to collaborate on fun and challenging projects
 
