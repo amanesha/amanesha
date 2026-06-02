@@ -22,10 +22,11 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe_XD-470137?style=flat-square&logo=adobexd&logoColor=FF61F6" />
 </p>
-# 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=amanesha&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false)
+# 📊 GitHub Stats
 
-![](https://nirzak-streak-stats.vercel.app/?user=amanesha&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanesha&show_icons=true&theme=github_dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amanesha&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=amanesha&theme=github-dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amanesha&layout=compact&theme=github_dark)
