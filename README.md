@@ -25,8 +25,14 @@
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanesha&show_icons=true&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amanesha&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=amanesha&theme=github-dark)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amanesha&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amanesha&layout=compact&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanesha&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</p>
