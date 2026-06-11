@@ -11,7 +11,7 @@
 # 💻 Tech Stack:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,flutter,aws,nodejs,mysql,mongodb,redis,docker,kubernetes,nginx,git,github,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,django,react,aws,nodejs,mysql,mongodb,redis,docker,nginx,git,github,javascript" />
 </p>
 
 <p align="center">
